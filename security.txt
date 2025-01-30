@@ -1,0 +1,1 @@
+Canonical: https://teknakife.netlify.app/security.txt
